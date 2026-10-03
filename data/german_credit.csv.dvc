@@ -1,0 +1,5 @@
+outs:
+- md5: 2b4478a31b287a39a4e29520ee1e273c
+  size: 81073
+  hash: md5
+  path: german_credit.csv
