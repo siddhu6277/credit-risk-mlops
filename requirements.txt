@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn==1.9.1
+matplotlib
+seaborn
+joblib
+streamlit==1.64.0
+mlflow==3.16.1
+dvc==3.67.1
+evidently==0.7.23
